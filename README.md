@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yonkoat
 - 👀 I’m interested in learning the programming itself
-- 🤑 I’m currently learning PHP,python
+- 🤑 I’m currently learning GO
 - 💀 I’m looking to collaborate...maybe?
 - 📫 How to reach me telegram:@Paprikashni
 - 😄 Pronouns: he/him
