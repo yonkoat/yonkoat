@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning the programming itself
 - 🤑 I’m currently learning GO
 - 💀 I’m looking to collaborate...maybe?
-- 📫 How to reach me telegram:@Paprikashni
-- 😄 Pronouns: he/him
+- 📫 How to reach me telegram:@Siluxone
 - ⚡ Fun fact: the hell am i doing here? i dunno... IQ of a peanut butter jar!🤡
 
 <!---
